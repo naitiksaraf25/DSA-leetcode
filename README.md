@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -15,6 +16,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Sorting
+|  |
+| ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
