@@ -44,4 +44,12 @@
 | ------- |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [3446-sort-matrix-by-diagonals](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
