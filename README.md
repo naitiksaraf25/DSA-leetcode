@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
