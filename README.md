@@ -13,6 +13,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
