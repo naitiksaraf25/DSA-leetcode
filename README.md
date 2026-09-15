@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Recursion
 |  |
