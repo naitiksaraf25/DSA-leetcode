@@ -68,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -96,4 +97,16 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
