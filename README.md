@@ -18,6 +18,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Matrix
 |  |
 | ------- |
