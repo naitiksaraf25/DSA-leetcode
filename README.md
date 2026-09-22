@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -42,6 +43,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -56,6 +58,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
