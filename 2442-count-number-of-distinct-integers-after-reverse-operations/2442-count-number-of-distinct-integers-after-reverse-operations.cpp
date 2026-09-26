@@ -11,7 +11,7 @@ public:
     }
     int countDistinctIntegers(vector<int>& nums) {
         unordered_set<int> st;
-
+        st.reserve(2*nums.size()); // memory allocate ho rhi hai phele se 
         for (int num : nums) {
             st.insert(num);
             st.insert(solve(num));
