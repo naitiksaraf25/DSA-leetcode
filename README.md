@@ -92,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0125-valid-palindrome) |
@@ -179,5 +180,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
