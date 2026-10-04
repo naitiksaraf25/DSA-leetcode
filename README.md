@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |
