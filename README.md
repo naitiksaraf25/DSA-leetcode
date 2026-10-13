@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -122,6 +124,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
@@ -212,4 +215,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
