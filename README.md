@@ -20,6 +20,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -44,6 +45,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -174,6 +176,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
