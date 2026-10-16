@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -144,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
