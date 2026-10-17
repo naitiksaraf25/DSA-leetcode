@@ -3,8 +3,7 @@ public:
     vector<int> partitionLabels(string s) {
         unordered_map<char,int>mp;
         for(int i=0;i<s.size();i++){
-            char ch = s[i];
-            mp[ch]=i;
+            mp[s[i]]=i;
         }
         vector<int>ans;
         int prev = -1;
