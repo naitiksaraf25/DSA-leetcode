@@ -44,6 +44,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0763-partition-labels) |
+| [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -120,6 +121,7 @@
 | [0763-partition-labels](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching
 |  |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
