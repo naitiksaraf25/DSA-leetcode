@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0137-single-number-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0137-single-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
