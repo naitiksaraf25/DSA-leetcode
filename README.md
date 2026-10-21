@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -163,6 +165,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -264,4 +267,20 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
