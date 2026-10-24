@@ -96,6 +96,7 @@
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+| [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -134,6 +135,7 @@
 | [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
