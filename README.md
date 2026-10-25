@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
