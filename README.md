@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -48,6 +49,7 @@
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0763-partition-labels) |
 | [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 ## Segment Tree
 |  |
 | ------- |
