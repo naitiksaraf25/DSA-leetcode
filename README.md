@@ -60,6 +60,7 @@
 | [2404-most-frequent-even-element](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -144,6 +145,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -222,6 +224,7 @@
 | [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2404-most-frequent-even-element](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String Matching
 |  |
 | ------- |
