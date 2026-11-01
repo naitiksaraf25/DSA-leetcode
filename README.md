@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0941-valid-mountain-array) |
@@ -105,6 +106,7 @@
 | [0029-divide-two-integers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
