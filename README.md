@@ -17,6 +17,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0941-valid-mountain-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
