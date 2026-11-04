@@ -37,6 +37,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -68,6 +69,7 @@
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Matrix
@@ -158,6 +160,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [2404-most-frequent-even-element](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
 ## String Matching
 |  |
 | ------- |
