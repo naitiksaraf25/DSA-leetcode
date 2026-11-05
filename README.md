@@ -24,6 +24,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -102,6 +103,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
@@ -130,6 +132,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -189,6 +192,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0763-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
