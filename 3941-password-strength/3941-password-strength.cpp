@@ -4,25 +4,19 @@ public:
         unordered_map<char, int> mp;
         int ans = 0;
         for (char x : password) {
-            if (x >= 'a' && x <= 'z') {
-                if (mp.find(x) == mp.end()) {
+            if (mp.find(x) == mp.end()) {
+                if (x >= 'a' && x <= 'z') {
                     mp[x]++;
                     ans += 1;
                 }
-            }
-            if (x >= 'A' && x <= 'Z') {
-                if (mp.find(x) == mp.end()) {
+                if (x >= 'A' && x <= 'Z') {
                     mp[x]++;
                     ans += 2;
                 }
-            }
-            if (x >= '0' && x <= '9') {
-                if (mp.find(x) == mp.end()) {
+                if (x >= '0' && x <= '9') {
                     mp[x]++;
                     ans += 3;
-                }
-            } else {
-                if (mp.find(x) == mp.end()) {
+                } else if (x == '!' || x == '@' || x == '#' || x == '$') {
                     mp[x]++;
                     ans += 5;
                 }
