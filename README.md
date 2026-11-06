@@ -72,6 +72,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3941-password-strength](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3941-password-strength) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Matrix
 |  |
@@ -164,6 +165,7 @@
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
+| [3941-password-strength](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
