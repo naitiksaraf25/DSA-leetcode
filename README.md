@@ -119,6 +119,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -165,6 +166,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3527-find-the-most-common-response) |
@@ -337,4 +339,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
