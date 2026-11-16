@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1338-reduce-array-size-to-the-half](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -64,6 +65,7 @@
 | [0496-next-greater-element-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0763-partition-labels) |
 | [1079-letter-tile-possibilities](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -139,6 +141,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1338-reduce-array-size-to-the-half](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -353,4 +356,16 @@
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
