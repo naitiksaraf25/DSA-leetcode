@@ -176,6 +176,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
