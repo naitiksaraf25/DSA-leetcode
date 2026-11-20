@@ -35,6 +35,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -151,6 +152,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3446-sort-matrix-by-diagonals](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
@@ -242,6 +244,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
