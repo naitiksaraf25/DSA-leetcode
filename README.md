@@ -39,6 +39,7 @@
 | [2906-construct-product-matrix](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3446-sort-matrix-by-diagonals](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
