@@ -107,6 +107,7 @@
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -130,6 +131,7 @@
 | [2409-count-days-spent-together](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3360-stone-removal-game](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/naitiksaraf25/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
